@@ -1,4 +1,4 @@
-# DataCleaningAssignment
+# Reading in and cleaning fitbit data 
 
 The first part of the script sets the working directory and reads all the necessary tables using the  ```read.table()``` function. \n
 
